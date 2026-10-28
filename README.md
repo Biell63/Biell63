@@ -50,11 +50,15 @@ Python development, Linux environments, shell scripting, automation, and system-
 
 <h2 align="center">AI Tooling & Agents</h2>
 
+## AI Tooling & Agents
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=D97757">
-<img src="https://img.shields.io/badge/OpenAI_Codex-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Hermes_Agent-0D1117?style=flat-square&logoColor=5B8CFF">
+<img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=D97757" alt="Claude">
+
+<img src="https://img.shields.io/badge/OpenAI_Codex-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex">
+
+<img src="https://img.shields.io/badge/Hermes_Agent-0D1117?style=flat-square&logo=robot&logoColor=5B8CFF" alt="Hermes Agent">
 
 <br><br>
 
