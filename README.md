@@ -52,15 +52,21 @@ Python development, Linux environments, shell scripting, automation, and system-
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=D97757" alt="Claude">
-
-<img src="https://img.shields.io/badge/OpenAI_Codex-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex">
-
-<img src="https://img.shields.io/badge/Hermes_Agent-0D1117?style=flat-square&logo=robot&logoColor=5B8CFF" alt="Hermes Agent">
+<a href="https://claude.ai">
+  <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude">
+</a>
+&nbsp;
+<a href="https://openai.com/codex/">
+  <img src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex">
+</a>
+&nbsp;
+<a href="https://github.com/NousResearch/hermes-agent">
+  <img src="https://img.shields.io/badge/Hermes_Agent-0D1117?style=for-the-badge&logo=robot&logoColor=5B8CFF" alt="Hermes Agent">
+</a>
 
 <br><br>
 
-Working with AI coding assistants and agent-based tools to support development, experimentation, and software engineering workflows.
+AI coding assistants · Agent-based workflows · Development automation
 
 </div>
 
