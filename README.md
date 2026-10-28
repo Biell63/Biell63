@@ -10,7 +10,7 @@
 
 <br><br>
 
-**Engineering intelligent systems with Python.**
+**Engineering intelligent systems**
 
 Exploring artificial intelligence, computational methods, and the systems behind modern software.
 
@@ -25,7 +25,7 @@ Exploring artificial intelligence, computational methods, and the systems behind
 
 ---
 
-<h2 align="center">01 / Research & Engineering</h2>
+<h2 align="center">Research & Engineering</h2>
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ Working with Python, Linux environments, shell scripting, and automation.
 
 ---
 
-<h2 align="center">02 / Technologies</h2>
+<h2 align="center">Technologies</h2>
 
 <div align="center">
 
@@ -64,7 +64,7 @@ Working with Python, Linux environments, shell scripting, and automation.
 
 ---
 
-<h2 align="center">03 / Selected Projects</h2>
+<h2 align="center">Selected Projects</h2>
 
 <div align="center">
 
@@ -84,7 +84,7 @@ Explore my repositories and ongoing work.
 
 ---
 
-<h2 align="center">04 / Connect</h2>
+<h2 align="center">Connect</h2>
 
 <div align="center">
 
