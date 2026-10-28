@@ -50,25 +50,29 @@ Python development, Linux environments, shell scripting, automation, and system-
 
 <h2 align="center">AI Tooling & Agents</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://claude.ai">
+    <img src="https://cdn.simpleicons.org/claude/D97757"
+         width="18" height="18" alt="Claude">
+    <strong>Claude</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com/codex/">
+    <img src="https://cdn.simpleicons.org/openai/FFFFFF"
+         width="18" height="18" alt="OpenAI">
+    <strong>OpenAI Codex</strong>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/NousResearch/hermes-agent">
+    <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/apps/desktop/public/apple-touch-icon.png"
+         width="18" height="18" alt="Hermes Agent">
+    <strong>Hermes Agent</strong>
+  </a>
+</p>
 
-<a href="https://claude.ai">
-  <img src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude">
-</a>
-&nbsp;
-<a href="https://openai.com/codex/">
-  <img src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex">
-</a>
-&nbsp;
-<a href="https://github.com/NousResearch/hermes-agent">
-  <img src="https://img.shields.io/badge/Hermes_Agent-0D1117?style=for-the-badge&logo=robot&logoColor=5B8CFF" alt="Hermes Agent">
-</a>
-
-<br><br>
-
-AI coding assistants · Agent-based workflows · Development automation
-
-</div>
+<p align="center">
+  <sub>AI Coding · Agentic Workflows · Development Automation</sub>
+</p>
 
 ---
 
