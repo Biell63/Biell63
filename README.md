@@ -57,11 +57,16 @@ Python development, Linux environments, shell scripting, automation, and system-
     <strong>Claude</strong>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://openai.com/codex/">
-    <img src="https://cdn.simpleicons.org/openai/FFFFFF"
-         width="18" height="18" alt="OpenAI">
-    <strong>OpenAI Codex</strong>
-  </a>
+<a href="https://openai.com/codex/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/openai/default.svg"
+    width="18"
+    height="18"
+    alt="OpenAI"
+    valign="middle"
+  >
+  <strong>OpenAI Codex</strong>
+</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/NousResearch/hermes-agent">
     <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/apps/desktop/public/apple-touch-icon.png"
