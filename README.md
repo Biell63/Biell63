@@ -6,13 +6,13 @@
 
 <br>
 
-<code>AI ENGINEERING</code> &nbsp;·&nbsp; <code>SYSTEMS</code> &nbsp;·&nbsp; <code>RESEARCH</code>
+<code>AI ENGINEERING</code> &nbsp;·&nbsp; <code>AI AGENTS</code> &nbsp;·&nbsp; <code>SYSTEMS</code>
 
 <br><br>
 
-**Engineering intelligent systems**
+**Engineering intelligent systems.**
 
-Exploring artificial intelligence, computational methods, and the systems behind modern software.
+Exploring AI-powered applications, agentic workflows, computational methods, and the systems behind modern software.
 
 <br>
 
@@ -31,20 +31,36 @@ Exploring artificial intelligence, computational methods, and the systems behind
 <tr>
 <td width="50%" valign="top">
 
-### Artificial Intelligence
+### AI Engineering
 
-Exploring intelligent applications, AI systems, and computational approaches to solving problems.
+Building with AI tools, exploring intelligent applications, agentic workflows, and computational approaches to problem-solving.
 
 </td>
 <td width="50%" valign="top">
 
 ### Systems Engineering
 
-Working with Python, Linux environments, shell scripting, and automation.
+Python development, Linux environments, shell scripting, automation, and system-level tooling.
 
 </td>
 </tr>
 </table>
+
+---
+
+<h2 align="center">AI Tooling & Agents</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=D97757">
+<img src="https://img.shields.io/badge/OpenAI_Codex-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Hermes_Agent-0D1117?style=flat-square&logoColor=5B8CFF">
+
+<br><br>
+
+Working with AI coding assistants and agent-based tools to support development, experimentation, and software engineering workflows.
+
+</div>
 
 ---
 
@@ -54,11 +70,11 @@ Working with Python, Linux environments, shell scripting, and automation.
 
 | Domain | Technologies |
 |:--|:--|
-| Language | Python |
+| Programming | Python |
 | Operating System | Arch Linux |
-| Shell | Bash / Shell |
-| Environment | Linux |
+| Shell & Automation | Bash, Shell |
 | Version Control | Git |
+| AI Tooling | Claude, Codex, Hermes Agent |
 
 </div>
 
@@ -97,6 +113,6 @@ Explore my repositories and ongoing work.
 
 <br><br>
 
-<sub>Python · AI Engineering · Linux · Arch Linux</sub>
+<sub>AI Engineering · Python · AI Agents · Linux · Arch Linux</sub>
 
 </div>
