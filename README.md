@@ -50,8 +50,6 @@ Python development, Linux environments, shell scripting, automation, and system-
 
 <h2 align="center">AI Tooling & Agents</h2>
 
-## AI Tooling & Agents
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=claude&logoColor=D97757" alt="Claude">
